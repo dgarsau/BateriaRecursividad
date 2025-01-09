@@ -8,6 +8,7 @@ public class Entrada {
 
     public static int entradaInt(){
         String numero = entrada.next();
+            
         try{
 
         }
