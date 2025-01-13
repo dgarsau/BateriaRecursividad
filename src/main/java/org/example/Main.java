@@ -30,11 +30,19 @@ public class Main {
                 break;
             case 3:
                 Ejercicio3.ejercicio3();
+                break;
             case 4:
                 Ejercicio4.ejercicio4();
+                break;
             case 5:
+                Ejercicio5.ejercicio5();
+                break;
             case 6:
+                Ejercicio6.ejercicio6();
+                break;
             case 7:
+                Ejercicio7.ejercicio7();
+                break;
         }
     }
 

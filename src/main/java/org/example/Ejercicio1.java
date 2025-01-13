@@ -14,6 +14,7 @@ public class Ejercicio1 {
     }
 
     //Este es el metodo que hice yo
+
     public static int calcularTamanyo(int numero){
 
         if (numero==0) {
