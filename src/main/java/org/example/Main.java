@@ -43,6 +43,9 @@ public class Main {
             case 7:
                 Ejercicio7.ejercicio7();
                 break;
+            default:
+                System.out.println("El número introducido no corresponde a ningún modo.");
+                break;
         }
     }
 
